@@ -1,0 +1,1 @@
+in this project, I used dragula drag and drop to make a trello clone app. to change the color i triggereed the ondrop and ondrag event to change the color of the card
